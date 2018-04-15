@@ -628,7 +628,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mor-aub-gim-vautour-800x560.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -638,7 +638,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Le vautour",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
@@ -1019,7 +1019,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/titi-en-classe-800x600.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
