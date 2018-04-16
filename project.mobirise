@@ -570,7 +570,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Le vautour",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
@@ -587,7 +587,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Le siebel",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
@@ -604,7 +604,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Le siebel",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
@@ -621,14 +621,14 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Le vautour",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mor-aub-gim-vautour-800x560.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -640,7 +640,7 @@
                 "title": "Diapositive Plein Écran",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le vautour avec Morlot, Aubry, Gimenez",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -655,9 +655,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le siebel avec Guérin et Vicaire",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -672,9 +672,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le vautour avec Geffrelot",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -689,7 +689,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "Le vautour",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
@@ -706,9 +706,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le vautour avec Aubry",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -723,9 +723,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Albert et Gimenez",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -740,9 +740,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Notre petit tour en SO 30 P",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -757,9 +757,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le petit Chapelier",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -774,9 +774,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le foyer",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -791,9 +791,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Le cross",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -808,9 +808,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "L'équipe de foot",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -825,9 +825,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "L'équipe de volley",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -842,9 +842,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "En pleine partie de foot",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -859,9 +859,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Geffrelot et Theilmann devant l'internat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -876,9 +876,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Geffrelot devant l'internat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -893,9 +893,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Lemoine",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -910,9 +910,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "La salle B",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -927,9 +927,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Poste de pilotage du SO 30 P",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -944,9 +944,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Une soirée",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -961,9 +961,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Arrivée de sprint",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -978,9 +978,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Départ de sprint",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -995,9 +995,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Arrivée de sprint",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -1012,9 +1012,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Theilmann devant l'internat",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
@@ -1031,12 +1031,12 @@
                 "title": "Diapositive Plein Écran",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Titi",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/troussicot-600x867.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -1046,9 +1046,9 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "Diapositive Plein Écran",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Le vautour",
+                "text": "Troussicot",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">Pour MAC</a>"
               }
             ]
