@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "promo",
-    "currentPage": "page1.html",
+    "currentPage": "Nos retrouvailles.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1570,7 +1570,7 @@
         }
       ]
     },
-    "page1.html": {
+    "Nos retrouvailles.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Nos retrouvailles",
