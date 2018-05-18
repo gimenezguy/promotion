@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "promo",
-    "currentPage": "troisième réunion.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10084,7 +10084,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animé",
@@ -10331,7 +10331,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animé",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/p1030843-600x904.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030843-600x904-600x904.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tapez la légende ici",
+                "active": false
               }
             ]
           }
@@ -10519,8 +10532,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/013-800x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/013-800x600-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/013-1600x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/013-1600x1200-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -10532,8 +10545,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/360-800x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/360-800x600-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc02360-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02360-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -10545,8 +10558,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/361-800x637.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/361-800x637-800x637.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc02361-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02361-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -10558,8 +10571,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/362-800x600.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/362-800x600-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc02362-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02362-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
