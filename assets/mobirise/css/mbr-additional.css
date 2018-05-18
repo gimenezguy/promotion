@@ -3681,6 +3681,27 @@ body {
 .cid-qS6oFrYK9S .section-text DIV {
   text-align: left;
 }
+.cid-qSqTAjjsUy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #55b4d4;
+}
+.cid-qSqTAjjsUy .image-block {
+  margin: auto;
+}
+.cid-qSqTAjjsUy figcaption {
+  position: relative;
+}
+.cid-qSqTAjjsUy figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qSqTAjjsUy .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qS6oFsOn1D {
   padding-top: 45px;
   padding-bottom: 15px;
